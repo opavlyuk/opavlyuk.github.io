@@ -1,0 +1,7 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - Software Engineer - Oleksandr Pavliuk.md

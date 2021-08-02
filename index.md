@@ -87,7 +87,6 @@ _Responsibilities:_
 * Consulting other teams about performance improvements
 
 **4 years | Software Engineer**  
-
 _Responsibilities:_
 * Development new features of existing infrastructure software
 * Designing and developing from scratch of internal dashboards and data gathering systems

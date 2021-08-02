@@ -36,13 +36,13 @@ GNU/Linux
 
 
 ## Opensource Contributions
-https://github.com/python/cpython/pull/13772  
-https://docs.python.org/3.9/whatsnew/3.9.html#ipaddress
+[CPython PR](https://github.com/python/cpython/pull/13772)  
+[Release notes](https://docs.python.org/3.9/whatsnew/3.9.html#ipaddress)
 
 
 ## Contribution to the lawful state development in Ukraine
-https://www.kmu.gov.ua/news/v-ukrayini-ocinili-stan-derzhavnih-reyestriv-i-najbilsh-poshireni-korupcijni-zlovzhivannya-z-nimi (currently, available only in Ukrainian)  
-https://tapas.org.ua/wp-content/uploads/2021/07/Zvit_Analiz-potochnogo-stanu-reestriv-_UA.pdf
+[Article on the Government page](https://www.kmu.gov.ua/news/v-ukrayini-ocinili-stan-derzhavnih-reyestriv-i-najbilsh-poshireni-korupcijni-zlovzhivannya-z-nimi) (currently, available only in Ukrainian)  
+[Analysis report](https://tapas.org.ua/wp-content/uploads/2021/07/Zvit_Analiz-potochnogo-stanu-reestriv-_UA.pdf)
 
 ## Foreign languages
 English  
@@ -85,7 +85,6 @@ _Responsibilities:_
 * Measuring and analysys of software performance
 * Bottlenecks identification
 * Consulting other teams about performance improvements
-
 **4 years | Software Engineer**  
 
 _Responsibilities:_

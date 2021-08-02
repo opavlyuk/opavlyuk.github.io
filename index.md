@@ -85,6 +85,7 @@ _Responsibilities:_
 * Measuring and analysys of software performance
 * Bottlenecks identification
 * Consulting other teams about performance improvements
+
 **4 years | Software Engineer**  
 
 _Responsibilities:_

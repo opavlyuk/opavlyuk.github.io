@@ -1,7 +1,7 @@
 # Oleksandr Pavliuk
 ### Software Engineer
 
-Qualified engineer with 5+ years of commercial experience in developing software solutions.  
+Qualified engineer with 6+ years of commercial experience in developing software solutions.  
 Hands-on experience in networking technologies, Unix-like systems, as well
 as automated testing frameworks.   Solid knowledge of software testing processes and strategies.
 
@@ -50,6 +50,20 @@ German
 
 
 ## Featured projects
+
+### Company: AvidRatings
+1 year 7 months | Senior Software Engineer**
+
+_Project description_ 
+Homebuilder solution to measure, analyze, benchmark and improve every step along the homebuyer journey.
+
+_Responsibilities:_
+* Developing of new features
+* Reviewing and optimizing CI pipelines
+* Support and mentor less experienced colleagues
+
+Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS
+
 
 ### Company: Edvantis  
 **Customer and project name restricted by NDA  

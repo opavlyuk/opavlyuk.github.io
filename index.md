@@ -1,13 +1,14 @@
 # Oleksandr Pavliuk
-### Software Engineer
+### Senior Software Engineer
 
-Qualified engineer with 6+ years of commercial experience in developing software solutions.  
+Qualified engineer with 7+ years of commercial experience in developing software solutions.  
 Hands-on experience in networking technologies, Unix-like systems, as well
-as automated testing frameworks.   Solid knowledge of software testing processes and strategies.
+as automated testing frameworks.  
+Solid knowledge of software testing processes and strategies.
 
 ## Education
 
-Ivan Franko NationaL University of Lviv, 2009
+Ivan Franko National University of Lviv, 2009
 
 Academician Stepan Demianchuk International University of Economics and Humanities.  
 Masters Degree in Computer Science, 2021
@@ -27,8 +28,13 @@ Nose
 
 ### RDBMS/Database servers  
 SQLite  
-MySQL  
 MongoDB  
+MS SQL Server
+
+
+### CI/CD and Infrastructure Automation Tools
+GitLab CI/CD  
+Ansible
 
 ### Operating systems
 FreeBSD  
@@ -40,21 +46,21 @@ GNU/Linux
 [Release notes](https://docs.python.org/3.9/whatsnew/3.9.html#ipaddress)
 
 
-## Contribution to the lawful state development in Ukraine
+## Contributions to the development of lawful state in Ukraine
 [Article on the Government page](https://www.kmu.gov.ua/news/v-ukrayini-ocinili-stan-derzhavnih-reyestriv-i-najbilsh-poshireni-korupcijni-zlovzhivannya-z-nimi) (currently, available only in Ukrainian)  
 [Analysis report](https://tapas.org.ua/wp-content/uploads/2021/07/Zvit_Analiz-potochnogo-stanu-reestriv-_UA.pdf)
 
 ## Foreign languages
 English  
-German  
+Slovak  
 
 
 ## Featured projects
 
 ### Company: AvidRatings
-1 year 7 months | Senior Software Engineer**
+**1 year 7 months | Senior Software Engineer**
 
-_Project description_ 
+_Project description_   
 Homebuilder solution to measure, analyze, benchmark and improve every step along the homebuyer journey.
 
 _Responsibilities:_
@@ -62,7 +68,7 @@ _Responsibilities:_
 * Reviewing and optimizing CI pipelines
 * Support and mentor less experienced colleagues
 
-Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS
+Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, Cognito)
 
 
 ### Company: Edvantis  
@@ -77,7 +83,7 @@ The scope of the project covered the development of the API, backend.
 
 _Responsibilities:_
 * Developing of new features
-* Migrating WebUI application functionality to the Resty API
+* Migrating WebUI application functionality to the RESTy API
 
 Technology stack used: Flask, Pydantic, PostgreSQL
 
@@ -103,7 +109,7 @@ _Responsibilities:_
 **4 years | Software Engineer**  
 _Responsibilities:_
 * Development new features of existing infrastructure software
-* Designing and developing from scratch of internal dashboards and data gathering systems
+* Designing and developing from scratch of internal dashboards and monitoring systems
 * Development of an automated testing framework
 
 Technology stack used:  

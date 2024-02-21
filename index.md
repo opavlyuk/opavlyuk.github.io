@@ -42,7 +42,7 @@ GNU/Linux
 
 
 ## Opensource Contributions
-[CPython PR](https://github.com/python/cpython/pull/29345)
+[CPython PR](https://github.com/python/cpython/pull/29345)  
 [CPython PR](https://github.com/python/cpython/pull/13772)  
 [Release notes](https://docs.python.org/3.9/whatsnew/3.9.html#ipaddress)
 

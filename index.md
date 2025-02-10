@@ -1,7 +1,7 @@
 # Oleksandr Pavliuk
 ### Senior Software Engineer
 
-Qualified engineer with 7+ years of commercial experience in developing software solutions.  
+Qualified engineer with 8+ years of commercial experience in developing software solutions.  
 Hands-on experience in networking technologies, Unix-like systems, as well
 as automated testing frameworks.  
 Solid knowledge of software testing processes and strategies.
@@ -31,10 +31,10 @@ SQLite
 MongoDB  
 MS SQL Server
 
-
 ### CI/CD and Infrastructure Automation Tools
 GitLab CI/CD  
 Ansible
+Kubernetes
 
 ### Operating systems
 FreeBSD  
@@ -45,6 +45,10 @@ GNU/Linux
 [CPython PR](https://github.com/python/cpython/pull/29345)  
 [CPython PR](https://github.com/python/cpython/pull/13772)  
 [Release notes](https://docs.python.org/3.9/whatsnew/3.9.html#ipaddress)
+
+## Professional Certifications
+[Certified Kubernetes Administrator (CKA), The Cloud Native Computing Foundation, Dec 2024, Expires: Dec, 2026](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-b93f331d-3f2e-4f24-a163-9a7d17700caa-certificate.pdf)
+[Certified Kubernetes Application Developer (CKAD), , The Cloud Native Computing Foundation, Dec 2024, Expires: Dec, 2026](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-93c7a46b-90df-49d5-981d-079b06342e12-certificate.pdf)
 
 
 ## Contributions to the development of lawful state in Ukraine
@@ -60,7 +64,7 @@ German
 ## Featured projects
 
 ### Company: AvidRatings
-**2 years 6 months | Senior Software Engineer**
+**3 years 6 months | Senior Software Engineer**
 
 _Project description_   
 Homebuilder solution to measure, analyze, benchmark and improve every step along the homebuyer journey.
@@ -70,7 +74,7 @@ _Responsibilities:_
 * Reviewing and optimizing CI pipelines
 * Support and mentor less experienced colleagues
 
-Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, Cognito)
+Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, SES, Cognito), OpenAI API
 
 
 ### Company: Edvantis  

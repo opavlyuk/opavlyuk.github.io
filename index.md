@@ -48,7 +48,7 @@ GNU/Linux
 
 ## Professional Certifications
 [Certified Kubernetes Administrator (CKA), The Cloud Native Computing Foundation, Dec 2024, Expires: Dec, 2026](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-b93f331d-3f2e-4f24-a163-9a7d17700caa-certificate.pdf)  
-[Certified Kubernetes Application Developer (CKAD), , The Cloud Native Computing Foundation, Dec 2024, Expires: Dec, 2026](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-93c7a46b-90df-49d5-981d-079b06342e12-certificate.pdf)
+[Certified Kubernetes Application Developer (CKAD), The Cloud Native Computing Foundation, Dec 2024, Expires: Dec, 2026](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/88dcd997-0fe0-459a-b5ce-0dea50a5dc09-oleksandr-pavliuk-93c7a46b-90df-49d5-981d-079b06342e12-certificate.pdf)
 
 
 ## Contributions to the development of lawful state in Ukraine

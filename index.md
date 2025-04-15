@@ -73,7 +73,7 @@ Homebuilder solution to measure, analyze, benchmark and improve every step along
 
 _Responsibilities:_
 * Service design
-* Developing new feature, eg new approaches for data collection and visualization  
+* Developing new features, eg new approaches for data collection and visualization  
 * Maintenance of dev and rc stacks
 * Reviewing and optimizing CI pipelines
 * Support and mentor less experienced colleagues

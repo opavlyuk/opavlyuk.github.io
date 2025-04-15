@@ -136,7 +136,7 @@ which helped them understand and respond to the needs of every student.
 The cooperation presupposed the development of the API and the backend.
 
 _Responsibilities & achievements:_
-* Developed an email reporting functionality using HTML and raw test bodies
+* Developed an email reporting functionality using HTML and raw text bodies
 * Created unit tests
 * Identified and resolved performance issues
 * Committed to developing project documentation

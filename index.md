@@ -1,7 +1,7 @@
 # Oleksandr Pavliuk
 ### Senior Software Engineer
 
-Qualified engineer with 8+ years of commercial experience in developing software solutions.  
+Qualified engineer with 9+ years of commercial experience in developing software solutions.  
 Hands-on experience in networking technologies, Unix-like systems, as well
 as automated testing frameworks.  
 Solid knowledge of software testing processes and strategies.
@@ -27,14 +27,17 @@ unittest
 Nose  
 
 ### RDBMS/Database servers  
+MS SQL Server  
+PostgreSQL  
 SQLite  
 MongoDB  
-MS SQL Server
+
 
 ### CI/CD and Infrastructure Automation Tools
 GitLab CI/CD  
-Ansible
-Kubernetes
+Ansible  
+Kubernetes  
+Docker Swarm
 
 ### Operating systems
 FreeBSD  
@@ -58,23 +61,24 @@ GNU/Linux
 ## Foreign languages
 English  
 Slovak  
-German
 
 
 ## Featured projects
 
 ### Company: AvidRatings
-**3 years 6 months | Senior Software Engineer**
+**3 years 7 months | Senior Software Engineer**
 
 _Project description_   
 Homebuilder solution to measure, analyze, benchmark and improve every step along the homebuyer journey.
 
 _Responsibilities:_
-* Developing of new features
+* Service design
+* Developing new feature, eg new approaches for data collection and visualization  
+* Maintenance of dev and rc stacks
 * Reviewing and optimizing CI pipelines
 * Support and mentor less experienced colleagues
 
-Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, SES, Cognito), OpenAI API
+Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, SES, Cognito), OpenAI API, PostgreSQL, Docker Swarm, K8s
 
 
 ### Company: Edvantis  
@@ -108,18 +112,18 @@ The scope of the project covered the development of the API, backend, and the te
 automation framework.  
 
 _Responsibilities:_
-* Measuring and analysys of software performance
+* Measuring and analysis of software performance
 * Bottlenecks identification
 * Consulting other teams about performance improvements
 
 **4 years | Software Engineer**  
 _Responsibilities:_
-* Development new features of existing infrastructure software
+* Developing new features for existing infrastructure software
 * Designing and developing from scratch of internal dashboards and monitoring systems
 * Development of an automated testing framework
 
 Technology stack used:  
-Python, Lua, Tornado, Networking libs, DTrace, Jenkins, aiohttp
+Go, Python, Lua, Tornado, Networking libs, DTrace, Jenkins, aiohttp
 
 ### Company: Amplify
 **6 month | Junior Python Developer**  

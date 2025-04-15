@@ -78,7 +78,7 @@ _Responsibilities:_
 * Reviewing and optimizing CI pipelines
 * Support and mentor less experienced colleagues
 
-Technology stack used: Python, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, SES, Cognito), OpenAI API, PostgreSQL, Docker Swarm, K8s
+Technology stack used: Python, Go, Flask, pytest, Redis, RabbitMQ, Docker, MS SQL Server, AWS (EC2, S3, ECR, SES, Cognito), OpenAI API, PostgreSQL, K8s
 
 
 ### Company: Edvantis  

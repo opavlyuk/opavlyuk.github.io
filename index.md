@@ -11,7 +11,7 @@ Solid knowledge of software testing processes and strategies.
 Ivan Franko National University of Lviv, 2009
 
 Academician Stepan Demianchuk International University of Economics and Humanities.  
-Masters Degree in Computer Science, 2021
+Master's Degree in Computer Science, 2021
 
 
 ## Skills
@@ -83,7 +83,7 @@ Technology stack used: Python, Go, Flask, pytest, Redis, RabbitMQ, Docker, MS SQ
 
 ### Company: Edvantis  
 **Customer and project name restricted by NDA  
-4 month | Senior Software Engineer**  
+4 months | Senior Software Engineer**  
 
 _Project description_  
 Extensible, service-oriented, framework for the set of multi-tenant services for customer data storing and verifying. 
@@ -93,7 +93,7 @@ The scope of the project covered the development of the API, backend.
 
 _Responsibilities:_
 * Developing of new features
-* Migrating WebUI application functionality to the RESTy API
+* Migrating WebUI application functionality to a RESTy API
 
 Technology stack used: Flask, Pydantic, PostgreSQL
 
@@ -108,25 +108,25 @@ The project was run for a leading US provider of a global private infrastructure
 reliable, and secure delivery of online video, web content, and IoT data.
 The cooperation presupposed the extension of an advanced catching proxy software that
 empowered the clients to provide exceptional digital experiences.
-The scope of the project covered the development of the API, backend, and the test
-automation framework.  
+The scope of the project covered the development of the API, and the test
+automation frameworks.  
 
 _Responsibilities:_
-* Measuring and analysis of software performance
+* Developing distributed system for measuring and analysis of CDN performance
 * Bottlenecks identification
 * Consulting other teams about performance improvements
 
 **4 years | Software Engineer**  
 _Responsibilities:_
 * Developing new features for existing infrastructure software
-* Designing and developing from scratch of internal dashboards and monitoring systems
+* Designing and developing internal dashboards and monitoring systems from scratch
 * Development of an automated testing framework
 
 Technology stack used:  
 Go, Python, Lua, Tornado, Networking libs, DTrace, Jenkins, aiohttp
 
 ### Company: Amplify
-**6 month | Junior Python Developer**  
+**6 months | Junior Python Developer**  
 
 _Project description_  
 The project was delivered for a US-based company providing educational services.
@@ -144,7 +144,7 @@ _Responsibilities & achievements:_
 Technology stack used: Python, PostgreSQL, Pyramid, Redis, Celery, Behave, AWS, Jenkins
 
 ### Company: Cisco
-**3 month | Trainee Test Automation Engineer**
+**3 months | Trainee Test Automation Engineer**
 
 _Project description_  
 The project was intended for an American company providing a broad range of service
